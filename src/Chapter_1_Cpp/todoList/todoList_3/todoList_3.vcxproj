@@ -139,7 +139,13 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="TodoList.cpp" />
     <ClCompile Include="todoList_3.cpp" />
+    <ClCompile Include="TodoManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TodoList.h" />
+    <ClInclude Include="TodoManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

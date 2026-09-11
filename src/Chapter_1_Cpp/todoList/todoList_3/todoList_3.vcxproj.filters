@@ -18,5 +18,19 @@
     <ClCompile Include="todoList_3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TodoManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TodoList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TodoManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TodoList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
